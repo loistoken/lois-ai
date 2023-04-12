@@ -1,0 +1,18 @@
+{
+	"home_page_title": "Home Page",
+	"blog_page_title": "Blog",
+	"menus": {
+		"primary": "Shadow - Main Menu"
+	},
+	"templates": {
+		"header-template": "Header",
+		"footer-template": "Footer"
+	},
+	"content_plugins": {
+		"hub-core": "Hub Core",
+        "elementor": "Elementor",
+        "hub-elementor-addons": "Hub Elementor Addons",
+        "hub-portfolio": "Hub Portfolio",
+        "contact-form-7": "Contact Form 7"
+	}
+}
